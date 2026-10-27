@@ -1,0 +1,6 @@
+{
+  "name": "SUPREMO MPA Glass Sampler",
+  "description": "Estação de produção musical e sampler com design glassmorphic supremo, 16 pads sensíveis, sequenciador de ritmos, síntese de áudio WebAudio e gravação.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
